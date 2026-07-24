@@ -4,8 +4,6 @@ Predicts which telecom customers are likely to churn and translates the model's
  **use data to drive a business
 decision.**
 
-**) · [Business recommendations](outputs/business_recommendations.txt) · [Model metrics](outputs/model_metrics.json)**
-
 ---
 
 ## 1. Business Problem

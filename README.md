@@ -1,12 +1,10 @@
 # Customer Churn Prediction & Business Recommendation Engine
 
 Predicts which telecom customers are likely to churn and translates the model's
-findings into concrete, actionable retention recommendations — built to mirror
-how analytics consulting teams (e.g., Tredence, Fractal, Tiger Analytics) frame
-data science work: not just "build a model," but **use data to drive a business
+ **use data to drive a business
 decision.**
 
-**[Live demo (Streamlit)](#deployment) · [Business recommendations](outputs/business_recommendations.txt) · [Model metrics](outputs/model_metrics.json)**
+**) · [Business recommendations](outputs/business_recommendations.txt) · [Model metrics](outputs/model_metrics.json)**
 
 ---
 
@@ -104,7 +102,7 @@ churn-prediction-project/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/customer-churn-prediction.git
+git clone https://github.com/<Anushka-0990>/customer-churn-prediction.git
 cd customer-churn-prediction
 
 # 2. Install dependencies
@@ -121,9 +119,6 @@ streamlit run app/app.py
 ```
 
 ## 9. Deployment
-
-The Streamlit app can be deployed for free on
-[Streamlit Community Cloud](https://streamlit.io/cloud):
 1. Push this repo to GitHub.
 2. Go to share.streamlit.io → "New app" → select this repo → set the main
    file path to `app/app.py`.
@@ -134,7 +129,3 @@ The Streamlit app can be deployed for free on
 ## 10. Tech Stack
 
 Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Streamlit
-
-## 11. Author
-
-Anushka Singh — B.Tech CSE (Data Science), SRM Institute of Science and Technology

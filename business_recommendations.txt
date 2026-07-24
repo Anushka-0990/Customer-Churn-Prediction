@@ -1,0 +1,21 @@
+BUSINESS RECOMMENDATIONS — Customer Churn Reduction
+
+=======================================================
+
+1. CONTRACT TYPE is a top churn driver.
+   Month-to-month customers churn at 42.7%, vs 2.8% for the most stable contract type.
+   -> Recommendation: Offer a discounted incentive for month-to-month customers to migrate to 1-year contracts (e.g., 5-10% loyalty discount).
+
+2. TENURE strongly predicts churn risk.
+   Customers in their first tenure bracket churn at 47.4%, the highest of any group.
+   -> Recommendation: Build a structured onboarding/retention journey for the first 12 months (proactive check-ins, early-tenure discounts, satisfaction surveys).
+
+3. SERVICE ENGAGEMENT (add-ons) reduces churn.
+   Customers with 0 add-on services churn at 21.4%, while those with the most add-ons churn at 5.3%.
+   -> Recommendation: Bundle Online Security / Tech Support into a free trial for at-risk, low-engagement customers to increase stickiness.
+
+4. Top 5 predictive features from the model: tenure, TotalCharges, Contract_Two year, InternetService_Fiber optic, MonthlyCharges
+   -> Recommendation: Prioritize a targeted retention campaign for customers who score high-risk on these features — model output can feed directly into a CRM 'at-risk' flag.
+
+5. ESTIMATED BUSINESS IMPACT
+   Out of 7,043 customers, 1,869 churned (26.5%). Even a modest 10% reduction in churn among high-risk, flagged customers would retain roughly 186 additional customers.

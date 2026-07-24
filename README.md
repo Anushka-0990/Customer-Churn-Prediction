@@ -117,6 +117,8 @@ streamlit run app/app.py
 ```
 
 ## 9. Deployment
+Screenshot- <img width="477" height="922" alt="Screenshot 2026-07-25 013240" src="https://github.com/user-attachments/assets/be46d476-b888-4cd0-be4a-5fac9c3bacf8" />
+
 1. Push this repo to GitHub.
 2. Go to share.streamlit.io → "New app" → select this repo → set the main
    file path to `app/app.py`.
